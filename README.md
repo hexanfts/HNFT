@@ -1,1 +1,1 @@
-# HNFT
+# HexaNFTs Token Contract (HNFT)
